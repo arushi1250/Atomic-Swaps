@@ -1,9 +1,4 @@
-/**
- * Trading engine class
- *
- * @author Djenad Razic
- * @company Altcoin Exchange, Inc.
- */
+
 var Engine = function (configuration, appConfiguration) {
     this.config = configuration;
     this.appConfig = appConfiguration;
