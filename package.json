@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test/testatomicswap.js"
   },
-  "author": "Sulejman Sarajlija & Anto Brajkovic <sule@altcoinexchange.com>",
+  "author": "Arushi Arora>",
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^4.1.0",
