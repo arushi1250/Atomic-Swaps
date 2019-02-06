@@ -1,9 +1,4 @@
-/**
- * Ethereum atomic swaps
- *
- * @author Djenad Razic
- * @company Altcoin Exchange, Inc.
- */
+
 
 var AbiConfig = require("../abi/atomicswap");
 var AppConfig = require("../config");
