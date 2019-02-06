@@ -9,11 +9,7 @@ const crypto = require('crypto');
  */
 var Common = function () {
 
-    /**
-     * Generate random secret
-     * @returns {{secret: (*|string), hashedSecret: *}}
-     * @constructor
-     */
+    
     this.GenerateSecret = function() {
 
         var secretBuffer = crypto.randomBytes(32);
