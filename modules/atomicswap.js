@@ -1,9 +1,4 @@
-/**
- * Atomic swap class
- *
- * @author Djenad Razic
- * @company Altcoin Exchange, Inc.
- */
+
 var AtomicSwap;
 AtomicSwap = function (configuration, appConfiguration) {
     this.engine = null;
